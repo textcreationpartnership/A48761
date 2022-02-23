@@ -1,0 +1,1002 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on the Scotch covenant Wherein all may receive satisfaction as to the illegality of it, and be easily perswaded to the renunciation thereof. By J. L.</title>
+            <author>J. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48761</idno>
+            <idno type="STC">Wing L26</idno>
+            <idno type="STC">ESTC R216515</idno>
+            <idno type="EEBO-CITATION">99828242</idno>
+            <idno type="PROQUEST">99828242</idno>
+            <idno type="VID">32669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1927:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on the Scotch covenant Wherein all may receive satisfaction as to the illegality of it, and be easily perswaded to the renunciation thereof. By J. L.</title>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath. Brook, at the Angel in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an added caption title on p. 3: Animadversions, &amp;c.</note>
+                  <note>Copy catalogued has type fade in imprint word "Cornhill".</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenants (Church polity) --  England --  Early works to 1800.</term>
+               <term>Covenanters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32669:1" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS <hi>ON THE</hi> Scotch Covenant. <hi>WHEREIN</hi>
+All may receive ſatisfaction as to the Illegality of it, and be eaſily
+perſwaded to the Renunciation thereof.</p>
+            <p>
+               <hi>By</hi> J. L.</p>
+            <q>
+               <bibl>
+                  <hi>Ezek. 16.61.</hi>
+               </bibl> 
+               <p>Then thou ſhalt remember thy wayes, and be aſhamed, when thou
+ſhalt receive thy ſiſters, thine elder and thy younger: and I will give
+them unto thee for daughters, but not according to thy Covenant.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nath. Brook,</hi> at the Angel in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32669:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:32669:2" rendition="simple:additions"/>
+            <head>Animadverſions, &amp;c.</head>
+            <p>AS ſoon as I viewed this Sermon and the paſſages annex'd to
+it though I have no itch to the Preſſe, (which I wiſh were more narrowly
+lookt to) yet <hi>Facit indignatio verſum,</hi> I could not forbear putting
+pen to paper, that I might Vindicate my Soveraigne and the Church of
+<hi>England.</hi> And though I could wiſh rather a<g ref="char:EOLhyphen"/>ny ſhould have done it
+then my ſelf, yet better it is that it ſhould be done by one that is
+<hi>Minimus ſacerdotum</hi> then not at all. Indeed I was once in the mind to
+let it paſſe with a private <hi>Deleatur</hi> to the whole, conceiving that
+ſcarſe any would be found willing to feed on ſuch ſowr Grapes, the
+greateſt part of thoſe who have any Eccle<g ref="char:EOLhyphen"/>ſiaſtical Function amongſt
+us being weary of hearing a Charge, and therefore call for a Retreat to be
+Sounded, deſiring a compoſure of Church Differences; yet be<g ref="char:EOLhyphen"/>cauſe there
+are ſome bad Stomacks that delight in green Fruit and Traſh; and others
+Weak, who require ſome greater ſatisfaction to the particulars herein
+contained then they can give themſelves; I hoped that it might have ſome
+good ſucceſs, if not to the former yet to theſe latter. And if any thing
+ſeem ſharp let the Reader blame him <hi>Qui laeſit prior.</hi> It will be
+ſuperfluous to Exerciſe any Charity in raiſing a doubt of the Author of
+this pa<g ref="char:EOLhyphen"/>per, ſince the Title page bears his name, or of his willing<g ref="char:EOLhyphen"/>neſs to
+have it made publick ſince we are there told that it was Printed according to
+the Authors own Copy, to prevent any counterfeit; againſt which ſurely that
+care could not make a ſufficient proviſion ſince it will be evi<g ref="char:EOLhyphen"/>dent that
+the whole (at beſt) is no other. But we may well Quaere and eaſily be
+reſolved of the Reaſons of iſſu<g ref="char:EOLhyphen"/>ing <pb n="4" facs="tcp:32669:3" rendition="simple:additions"/>it out at
+this time of his Sacred Majeſties coming to <hi>England,</hi> that they were
+no other, then either to ingage him to the ſame here, and ſo give an Allay
+to the Affe<g ref="char:EOLhyphen"/>ctions of thoſe that had imbarqued themſelves in his and his
+Fathers Cauſe, or elſe upon a refuſall to be a Foun<g ref="char:EOLhyphen"/>dation of Clamor
+againſt him by their handful of Aſſo<g ref="char:EOLhyphen"/>ciates in <hi>England:</hi> If
+theſe ſuffice not, why may we not think that it was propoſed as a pattern
+to ſome rigid and refractory Spirits to hold him to the ſame hard meat here
+which they had ſo liberally fed him with in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> It is plain
+that as Malice was the Mother, ſo Miſ<g ref="char:EOLhyphen"/>chief is the intended Daughter.</p>
+            <p>Others of a contrary Judgement to them have been willing to Lute
+up their Mouths and Acquieſce in the Royall determination with the advice of
+his great Council, but theſe Men will never ceaſe to caſt in Fire<g ref="char:EOLhyphen"/>brands
+amongſt us to put all in Flames; what can we not be a Church unleſſe we
+be a Kirk? or is all the World oblig'd to Dance after the <hi>Scotch
+Bagg-pipe?</hi> is either <hi>England</hi> ſo Low, or themſelves in ſo
+High and Potent Condition, that they ſhould impoſe upon us? or is our Peace
+and Settlement the onely object of their Envy? or if they muſt needs be
+attemping a Diſunion amongſt us in ſuch a juncture of Affairs wherein all
+ſober minded men labour to make up our many Breaches had they no other
+expedient but this paper to do it? as if they were reſolved, that his Sacred
+Majeſty ſhould never be free from Afflictions whether with them or us; or
+had they no better Sermon for a Coronation, or to plead their in<g ref="char:EOLhyphen"/>tereſt then
+this pitiful crude piece? Believe it, if the Author were choſen for ſo
+great a work by ability, not faction, we may well pitty them with whom the work
+of Preaching Runs ſo Low, and let me add, ſo full of Dreggs.</p>
+            <pb n="5" facs="tcp:32669:3" rendition="simple:additions"/>
+            <p>It is not agreeable to the more modeſt and civil Ge<g ref="char:EOLhyphen"/>nius of our
+Nation to be ſo bold in the Pulpit with pri<g ref="char:EOLhyphen"/>vate men how mean ſoever, as to
+name them, much leſſe with a KING; we have learned <hi>Parcere perſonis
+dicere de vitiis;</hi> it is ſufficient that we give the <hi>Theſis,</hi>
+let the Auditors Conſcience make the application; or where we think that
+neceſſary we cannot but account it abſurd to direct it to any particular
+Perſon, a courſe more fit to blaſt then inſtruct him, nor ſhall any
+man ever find this rude way advantageous for the attaining that end, which is
+or ſhould be deſigned by Preachers, the Benefit of the Auditors; for who is
+there ſo publikely reproved whoſe corruption will not hatch a diſlike of
+the froward and imprudent inſtructer; and where this diſlike takes place
+his Doctrine is like to find but a mean Reception. We know well the Charge of
+the Apoſtle, <hi>Thoſe that ſin rebuke before all, that others alſo may
+fear,</hi> 1 <hi>Tim.</hi> 5.20. But who doth not know that this is not to be
+underſtood of all offences but thoſe that are <hi>primae magnitudinis,</hi>
+and thoſe ſins without Controverſie, and publickly known, and that after
+a Fruitleſſe Tryall of all fair and gentle means, and private admonitions;
+and when ever uſed, or if ever to God's Vice gerent, in ſilken words. But
+for every Miniſter (ſince he will be called ſo) ſo ſoon as he hears
+of any Affairs of State which diſlikes his Fancy, or correſponds not with
+his Intereſt, immediately to flie in the Face of Majeſty, and by a
+ſatyricall bawling and barbarous Diſcourſe to render it mean in the eyes
+of the Subjects, which are of themſelves too apt to enter<g ref="char:EOLhyphen"/>tain ſuch
+thoughts and diſcover the bad fruits of them, is neither agreeable to the
+Ingenuity of a Schollar, the Prudence of a Chriſtian, or the Gravity of a
+Divine. I could muſter up here a Troop of practiſes of this na<g ref="char:EOLhyphen"/>ture, but
+that I have no intent to provoke my Reader to <pb n="6" facs="tcp:32669:4" rendition="simple:additions"/>laughter
+by repeating thoſe things which were never fit to be ſpoken once, much
+leſs in a Pulpit: and yet (which is the miſchief of it) for this only they
+are thought godly and faithfull; And our Author tells us as much, <hi>pag.</hi>
+10. For, <hi>They ſpared not</hi> (ſaith he) <hi>to tell the King his fault
+to his Face.</hi> Yet this may ſeem to be a ſmall matter in re<g ref="char:EOLhyphen"/>ſpect of
+another uſage they have, which is not only to rebuke (I had almoſt ſaid
+rail againſt) then <hi>Coram,</hi> but in their Countrey Pulpits, before a
+few walking Clods to cenſure all the actions of the Court, and rip up all the
+imagined faults of the abſent King, who can never be informed by ſuch
+diſcourſes, ſo that any intelligent per<g ref="char:EOLhyphen"/>ſon muſt needs conclude, that
+their proper tendency is to ſtir up ſeditious ſpirits to reſiſt the
+lawfull Magi<g ref="char:EOLhyphen"/>ſtrate, for maintenance of their new Modell. And though you will
+think this enough and too much, yet they reſt not here; for they are ſo
+accuſtomed to revile the living, both preſent and abſent, that they
+ſpare not the very Dead, as you may ſee in this Author, <hi>page</hi> 4.
+<hi>There are many ſins upon our King and his Family;</hi> a little after,
+<hi>I deſire the King be truly humbled for his own ſins,</hi> &amp;c.
+<hi>the ſins of his Fathers Houſe, which have been great! Page</hi> 19. He
+accuſes King <hi>James</hi> of making a foul defection; and in a few lines
+after, ſayes, that <hi>He laid the Foundation whereupon his Son our late King
+did build much miſchief to Religion all the dayes of his life. Os
+impudens!</hi> was there none that had loyalty enough to ſtop that black
+mouth? or is it ſo cuſtomary with you, that it is to be eſteemed a
+<hi>Scotch</hi> Elegancy? In good earneſt that bleſſed Saint ſhall hear
+a Martyr when the Name of ſuch railing <hi>Rabſhakaes</hi> ſhall either
+be forgotten or remembred with abhor<g ref="char:EOLhyphen"/>rency.</p>
+            <p>Again, <hi>Page</hi> 22. Sir, <hi>There is too much iniquity upon
+the Throne by your Predeceſſors, who framed miſchief by a Law.</hi> 
+               <pb n="7" facs="tcp:32669:4"/>And <hi>Page</hi> 24: <hi>I may ſay freely that the chief
+cauſe of the Judgement upon the Kings Houſe hath been the Grandfathers
+breach of Covenant with God, &amp; the Fathers following ſteps in oppoſing
+the work of God, &amp; his Kirk within theſe Kingdoms.</hi> What will you
+diſturb the Grave, and arraign &amp; ſentence the Aſhes of the Kings? how
+can we expect any Piety where there is a want of that Charity which covereth
+the multitude of Offences? nay, where there is that ra<g ref="char:EOLhyphen"/>dicated malice that
+makes offences where there are none, and that is not ſatisfied with a verbal
+aſperſing the Dead, but by the Preſſe indeavours the tranſmitting
+theſe Calumnies to Poſterity: <hi>Aut hoc non eſt Evange<g ref="char:EOLhyphen"/>lium, aut hi non
+ſunt Chriſtiani,</hi> 'tis the Apoſtles rule, Titus 3. <hi>v:</hi> 2.
+<hi>To ſpeak evill of no man;</hi> you have not the Authority of the Writers
+of the Canon of Scripture in cenſuring the Lives of your KING'S though you
+take it:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>2</label> In the Circumſtances of Coronation
+prefixed to the Sermon, you may take notice, that aſſoon as ever the Lord
+Chancellor had ſignified their deſire of his being Crowned, with the ſame
+breath he deſires the <hi>Mainte<g ref="char:EOLhyphen"/>nance of Religion conforme to the Nationall
+Covenant, League and Covenant;</hi> So it ſeems Religion muſt con<g ref="char:EOLhyphen"/>form to
+that, not that to Religion: this is that which they make the top of the Crown,
+its Croſſe; and then if this be done, what will they doe? he tells you,
+that <hi>They will beſtow Land, Life, and what elſe is in their power for
+the maintenance of Religion, and the ſafety of his Maje<g ref="char:EOLhyphen"/>ſties
+perſon.</hi> I like well that God ſhould be ſet above the King, and ſo
+doth his Majeſty too; But what the aim of theſe Men is in prefixing of
+Religion to the ſafety of his Majeſties ſacred Perſon, we know by ſad
+expe<g ref="char:EOLhyphen"/>rience; and find here in their words, <hi>Religion conform to the
+Nationall Govenant:</hi> would you underſtand what <pb n="8" facs="tcp:32669:5" rendition="simple:additions"/>Religion is in their ſenſe? the ſum totall, is the <hi>National
+Covenant, the League and Covenant;</hi> which being their own device and an
+unwarrantable compoſure how little reaſon there is, that either that
+ſhould be the comprehen<g ref="char:EOLhyphen"/>ſive of Religion, or Religion under that Notion
+ſtand before his Majeſty, let all ſober and diſcreet Men judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>3</label> In the Sermon, to let alone his
+Conjectures about <hi>Joaſh,</hi> when he comes to make the Parallell betwixt
+him and the King, he tells you, <hi>Pa.</hi> 3. <hi>That the wicked Men have
+riſen up, and uſurped the Kingdom;</hi> And who were theſe wicked men?
+were they not all or moſt of them Cove<g ref="char:EOLhyphen"/>nanters? did they not all ſwarm out
+of the Hive of Preſbytery? and what did your own Country men doe in the dayes
+of his great Grandmother? and by what Principles were they acted, and who ſet
+them a work? and what were the Pretences? we are well pleaſed you ſhould
+condemn theſe amongſt us as much as you will, but deſire that you would
+paſſe the ſame Cenſure upon all that lie under the ſame Guilt, what
+ever covering they throw over it. For we agree fully with you, That who ever
+riſes up and Uſurps the Kingdome, deſerves the Title of wicked; and as
+you ſay in the words fol<g ref="char:EOLhyphen"/>lowing, we ſay alſo, that <hi>They put to Death
+the laſt King moſt unnatually:</hi> but who brought him low and made the
+way for his Murder? who did unnaturally murder him in his Repute and good Name,
+and ſo prepared him for their Cruelty? If you be not able to anſwer theſe
+Queſtions, every Child can with us; for the vail is ta<g ref="char:EOLhyphen"/>ken off, and you
+muſt never think theſe many Ages to deceive ſo much as the
+<hi>Plebeians</hi> with the NAME of RELIGION in your ſenſe before
+mentioned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>4</label> You ſay, <hi>Page</hi> 4. <hi>That
+there are many ſins upon the King and his Family;</hi> the
+unhandſomneſſe of this expreſſion <pb n="9" facs="tcp:32669:5"/>is took notice of
+before; and now muſt add that which is proper as it lies here; what ſo
+young and yet ſo many ſins? what are they perſonal? can they ſee ſo
+many, and all the world beſides admire they can find ſo few? What were they
+ſins in Government? why he never yet came to it here when theſe words were
+ſpoken; and how long had he governed with you, or how much did he govern?
+though you put away moſt of his Friends from him, yet we are not ignorant, He
+that will charge others ſo Magiſterially ſhould look a little into
+himſelf, and thoſe that ſide with him; and ſhall we find him or their
+Aſſembly ſpotleſſe? So much hath been printed, ſo much is known of
+your wayes and proceedings, that you had need to bewail your own Trible ere you
+charge his Majeſty ſo rudely and violently: and if we may trace you in your
+own way of cenſuring, I think we may ſay; The Event hath ſhewed that the
+Lord hath had a Controverſie with you; as well as you ſay he hath with the
+Royall Family.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>5</label>
+               <hi>Page</hi> 5: He is not content to
+ſtrike at the preſent King and his dead Anceſtors, but he muſt
+diſcover their wonted diſſafection to Kings in Generall; for there he
+gives them this laſh, <hi>Kings uſe to be ſo taken up with their Crowns
+that they deſpiſe their People.</hi> They are alwayes engrafting in the
+ſtock of the people a bad opinion of Kings, which with the heat of their
+Sermons, they can at pleaſure make ſprout out into a Rebellion; and
+therefore I ſhall only tell him to this Paſſage, that He and his Faction
+are ſo taken up with their novell Diſci<g ref="char:EOLhyphen"/>pline, that they deſpiſe
+Crowns, and ſpeak evill of Dig<g ref="char:EOLhyphen"/>nities, and encourage the People to doe the
+like as thinking it very ſafe to ſpeak the Pulpit language.</p>
+            <p>That which followes in the ſame <hi>Page</hi> is to me very
+ſtrange, when he ſo confidently affirms, <hi>I know nothing that 
+<pb n="10" facs="tcp:32669:6"/>is good in Government but a King may learn it out of the
+Book of God.</hi> It is a great ſign you know not much. The end which the
+Scripture propoſeth as to us, is to diſco<g ref="char:EOLhyphen"/>ver the way and means of
+attaining ſalvation, in this <hi>Non deficit,</hi> ſo omits not any thing
+of that which is needfull to acquire this End. But on the other ſide, <hi>Non
+redundant in ſuperfluis;</hi> for although there be ſcattered up and down
+ſome general precepts con<g ref="char:EOLhyphen"/>cerning Magiſtrates and all Relations, yet it
+being not the end of Scripture to write Politicks, we may boldly ſay, that
+all that is good in Government cannot be learned out of the Book of God: much
+might be ſaid to this; but becauſe I mean to make ſhort work with him, I
+ſhall choak him with an Authority drawn from a Patriarch of his own
+King-leſſening Doctrine, <hi>Buchanan</hi> in his Book <hi>De jure
+Regni</hi> when he comes to anſwer the Objection,<note place="margin">De jure
+Regni a<g ref="char:EOLhyphen"/>pud Scotos <hi>Pag. 47.</hi>
+               </note> That however Idolatrous the Kings
+of <hi>Iſrael</hi> were, yet the Prophets never exhorted the people to take
+up Arms and to ſet things right by ſuch crooked means, <hi>Poſſum</hi>
+(ſaith he) <hi>apud multas Nationes plurimas ſaluberrimaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+recenſere Leges quorum in Sacris literis nullum eſt exemplum;</hi> The
+Government is by Lawes; Lawes there are, and good ones too it may be; beſides
+what are there ſomething it ſeems by him not only for Go<g ref="char:EOLhyphen"/>vernment, but for
+governing him that hath the Go<g ref="char:EOLhyphen"/>vernment, that yet there is no Scripture for?
+And he did very ingeniouſly to confeſſe they had no Scripture for it; for
+all their practiſes in that are beſides the Text, Kings muſt govern by
+Scripture, but they think they may govern them without.</p>
+            <p>He is pleaſed a little after to commend the <hi>Teſtimonies of
+God for the beſt Councellours;</hi> we deny it not: but why are they ſo?
+<hi>Becauſe they will tell the Kings freely both their Sin and their
+Duty;</hi> Why, who ſhould if they <pb n="11" facs="tcp:32669:6"/>ſhould not; God
+ſpeaks by them; but ſure I am he likes them the better for their freedom
+with Kings: but let me tell you, ſince the Scriptures are ſo free, you
+might be a little modeſter then you are; and let ſome<g ref="char:EOLhyphen"/>thing elſe then
+railing be the Character of a good Prea<g ref="char:EOLhyphen"/>cher amongſt you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>6</label> Much troubled he is, <hi>Page</hi>
+6. with anointing of Kings; and after he hath granted that one of he Caſes in
+which the Jews uſed it, <hi>viz,</hi> in the Caſe of <hi>Interruption by
+<g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pation,</hi> which he confeſſeth was their Caſe in the preſent
+Coronation; yet then he flies to this, that it was <hi>Typical and taken from
+the Jewes without warrant.</hi> They make what they pleaſe typicall; but
+though they were anoin<g ref="char:EOLhyphen"/>ted, and Chriſt were yet thence to infer it was a
+type, is no ſound conſequence. The Jews uſed Baptiſme be<g ref="char:EOLhyphen"/>fore Chriſt;
+Chriſt makes uſe of it alſo; will they ſay this is a typicall action?
+if ſo, why do they not caſt that off? the ſick were anointed with Oyl,
+<hi>James</hi> 5.14. was that typicall? as for his other, that it was taken
+from the Jews without warrant, I muſt look upon it as affir<g ref="char:EOLhyphen"/>med
+<hi>Gratis.</hi> For in theſe things where we have not di<g ref="char:EOLhyphen"/>rections in the New
+Teſtament, why may we not have reſpect to the Old, eſpecially when the
+action doth not deny Chriſt come, ſo will not lay any Jewiſh bondage upon
+us: Now to make it more odious, he tells us how that this anointing was
+<hi>Moſt in uſe with the Biſhops of</hi> Rome, <hi>who to keep Kings and
+Emperours ſubject to them<g ref="char:EOLhyphen"/>ſelves did ſwear them to the Pope when they
+were anointed; (and yet the Jewiſh Prieſts did never ſwear Kings to
+them<g ref="char:EOLhyphen"/>ſelves,) as for</hi> England <hi>although the Pope was caſt off, yet
+the ſubjection of Kings to Biſhops was ſtill reteined; for they anointed
+the King and ſwore him to the maintenance of their Prelaticall Dignity.</hi>
+Very good; <hi>Turpe eſt Doctori cùm culpa redarguit ipſum,</hi>
+What art thou O man, that con<g ref="char:EOLhyphen"/>demneſt <pb n="12" facs="tcp:32669:7"/>another, and yet
+doſt the ſame things. Sure you were aſleep when you delivered this, I am
+ſure you forgot your ſelf much; look into <hi>Page</hi> 2: in the
+Chan<g ref="char:EOLhyphen"/>cellors Speech, and ſee what he moves to the King ſo ſoon as he had
+delivered the deſires of the people for his Coronation; <hi>That he would
+maintain Religion, conform to the National Covenant, League and Covenant;</hi>
+ſo in <hi>Pa.</hi> 10. after the Sermon was done, they put him to renew the
+Covenant, they had urged him to take it before: this was but a renewing; for
+notwithſtanding their Articles at <hi>Breda,</hi> they knew well how they had
+uſed him in this particular, both before he landed and after, contrary to
+their firſt agreement; for no Coronation nor nothing to be done for him
+without this; and who is this to En<g ref="char:EOLhyphen"/>gage him too, but their
+<hi>Presbytery,</hi> that is, themſelves; and yet they complain of the
+<hi>Pope</hi> and the <hi>Engliſh</hi> Biſhops that they ſwear Kings to
+themſelves. Accordingly they faſhion the people, <hi>Page</hi> 21: to bear
+<hi>Truth and Faith to him, and live and die with him;</hi> with this
+limitation, <hi>In your ſervice according to the Nationall Covenant and
+Solemn League and Covenant:</hi> So <hi>Page</hi> 23. the Lords one by one did
+promiſe <hi>Truth and Faith to him againſt all manner of Polkes
+whatſoever in your ſervice, according to the Nationall Covenant and Solemn
+League and Covenant.</hi> So, no Cove<g ref="char:EOLhyphen"/>nant, no Obedience, no King. Yet they doe
+not as the <hi>Pope</hi> or the <hi>Biſhops</hi> of <hi>England;</hi> good
+men! they are guil<g ref="char:EOLhyphen"/>ty of no ſuch practiſes; indeed they are not, but of
+worſe they are. Where was your reaſon when you ſay that in <hi>England
+although the Pope was caſt off, yet the Subjection of Kings to Biſhops was
+ſtill reteined?</hi> wherein or how is the King of <hi>England</hi> ſubject
+to the Biſhops, ſpeak it out Man! do they meet without his Order but with
+the danger of a premunire? have any of them oppoſed him or railed againſt
+him in their Sermons? or have they undertaken <pb n="13" facs="tcp:32669:7"/>at their
+Aſſemblies to order the King, to order the Army, to direct them when they
+ſhall Fight, when not; whom they ſhall employ, whom caſt out, how they
+ſhall keep their King lockt up as a Priſoner; when he ſhall appear, and
+when 'tis fit to take him from the Army; leſt by being ſeen, he prove too
+po<g ref="char:EOLhyphen"/>pular, and give a Check to the Kirk? All which things and many more we know
+who have done, that pretend to nothing but the ſword of the ſpirit; Do the
+Biſhops at any time uſe ſo much as a bold Ex<g ref="char:EOLhyphen"/>preſſion to him? do they
+not acknowledge though not their calling yet the exerciſe of it in this or
+that Precinct to him? do they in their Synods offer to ob<g ref="char:EOLhyphen"/>lige the people by
+their determinations, till the things agreed upon have received the
+<hi>Stamp</hi> of <hi>Royall Autho<g ref="char:EOLhyphen"/>rity,</hi> and ſo made currant? can you
+ſay that at any time they have held their Reſolution firm in any thing
+without the King's Confirmation? do they not acknowledge him and pray for him
+as ſupreme in all cauſes as well Eccleſiaſticall as Civill? do you give
+him ſo much, or do you ſo pray for him? Laſtly, have the Biſhops in
+<hi>England</hi> ſince the Reformation, ever uſed any violent meanes to
+bring the King to their bow? who have you known, and let them bear the charge
+of ſubjecting Kings to their modell.</p>
+            <p>But you go on to tell us how Subjection of Kings to Biſhops is
+ſtill reteined in <hi>England;</hi> now let the Au<g ref="char:EOLhyphen"/>ditor look for ſome rare
+reaſons, for which he may prepare either his laughter or pity, or both,
+<hi>For the a<g ref="char:EOLhyphen"/>nointed, the King; ergo,</hi> he is ſubject to them: Hear as
+good an Argument; the Marquis of <hi>Argyle</hi> the grand <hi>Patron</hi> of
+the Covenant, ſet the Crown upon the Kings Head, <hi>Page</hi> 21. will you
+ſay therefore the King was ſubject to him? I will not ſay what he and you
+<pb n="14" facs="tcp:32669:8"/>would have made him, but a better Providenc hath delivered
+him out of thoſe ſtorms and a little time will diſcover the hidden things
+of that miſchievous League. The latter part is as good and to the ſame
+tune; <hi>And ſwear him to the maintenance of their Prela<g ref="char:EOLhyphen"/>ticall
+Dignity:</hi> you are much out; for they preſent no<g ref="char:EOLhyphen"/>thing, but what his
+Anceſtors ever voluntarily en<g ref="char:EOLhyphen"/>gaged themſelves too by Oath, and do not
+force an Oath upon him of their own deviſing. The Oath is not of their
+impoſing, but of his own free taking, and thereby he engageth himſelf to
+nothing, but what is by Law eſtabliſhed: not urged by violence, and threats
+and arms. And what if he doth engage by Oath to preſerve the Rights of the
+Church, is the matter ſo hainous? Yes, <hi>Biſhops are Limbs of
+Antichriſt.</hi> You ſay much but you prove little; will you make the
+Apoſtles Limbs of Antichriſt? <hi>Nam &amp; Alexandriae à Marco
+Evangeliſta uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad Heraclam &amp; Dionyſium Epiſ<g ref="char:EOLhyphen"/>copos,
+Presbyteri ſemper unum ex ſe electum, in excelſiori gradu collocatum
+Epiſcopum nominabant Hieronymus ad Evagrium,</hi> Epiſt. 85: was
+<hi>Mark</hi> Biſhop of <hi>Alexandria</hi> a Limb of Antichriſt? or
+<hi>Peter</hi> at <hi>Antioch</hi> or <hi>Rome,</hi> or <hi>James</hi> at
+<hi>Jeruſalem,</hi> or <hi>Polycarp</hi> at <hi>Smyrna?</hi> what have all
+Eccleſiaſtical Writers agreed together to lye in a matter of Fact,
+delivering to us the ſucceſſion of Bi<g ref="char:EOLhyphen"/>ſhops in the moſt principal
+Sees? I will not ſay much to this, the Cauſe hath been handled by many
+Lear<g ref="char:EOLhyphen"/>ned Pens which either you have not read, or if, which prejudice St
+<hi>Hierom</hi> to whom you attribute more then all the Fathers, becauſe you
+think he doth leaſt to Biſhops; yet if he might determine the
+Controverſie in his Epiſtle to <hi>Evagrius,</hi> he would give it
+againſt you. <hi>Et ut ſciamus traditiones Apoſtolicus ſumptus de
+Veteri Te<g ref="char:EOLhyphen"/>ſtamento; quod</hi> Aaron, <hi>&amp; filii ejus: atque Levitae in 
+<pb n="15" facs="tcp:32669:8"/>Templo ſuerunt, hoc ſibi Epiſcopi &amp; Preſbyteri,
+&amp; Dia<g ref="char:EOLhyphen"/>cani vindicent in Eccleſia,</hi> Epiſt: 85. I will add no more
+but look beyond <hi>Calvin,</hi> yet anointing, and Biſhops muſt <hi>Be put
+together to the door, never to come in again:</hi> Yes, they may and never
+aſk a Scotch Mini<g ref="char:EOLhyphen"/>ſter leave; you muſt not alwayes think to reign as
+Kings, and cenſure as you pleaſe, coupling Popery and Prelacy together
+without any diſtinction, on purpoſe to make all that be of that judgement
+in the ſame condemnation with the Papiſts, and ſo fit for your
+Sequeſtration and Violence. But though he caſt out the Ceremony of
+anointing, yet he under<g ref="char:EOLhyphen"/>takes to tell us preſently after, how they are
+anoin<g ref="char:EOLhyphen"/>ted of the Lord, <hi>Becauſe by the Ordinance of the Lord their
+Authority is ſacred and inviolable.</hi> Take heed you break not the
+Ordinance of the Lord; for we ſhall have occaſion afterwards to ſee how
+ſacred and in<g ref="char:EOLhyphen"/>violable you make it in your opinion and practiſe. Then you
+commend unto us in the ſame <hi>Page, The ſpi<g ref="char:EOLhyphen"/>rituall <g ref="char:V">Ʋ</g>nction which you
+ſay is common to Believers;</hi> and then <hi>That few Kings are ſo
+anointed.</hi> There are but few Kings; therefore there cannot be many ſo
+anoin<g ref="char:EOLhyphen"/>ted when the whole number is ſo ſmall: but let me tell you there are
+many Rebels, and not one of them is ſo anointed.</p>
+            <p>Anon after you come to reckon up the Enemies to the Authority of
+Kings, and we could enlarge your Catalogue with another name to the third
+ſort, who you ſay are ſuch <hi>Who riſe againſt Kings in open
+Rebellion as</hi> Abſolom <hi>and</hi> Sheba, <hi>who ſaid, what have we to
+doe with</hi> David <hi>the Son of</hi> Jeſſe? <hi>To your Tents O</hi>
+Iſraell; For at the firſt beginning of Rebellion amongſt us by Tumults, a
+Treatiſe bearing this very Title waſt caſt into his Majeſties Coach,
+and by whom they were <pb n="16" facs="tcp:32669:9"/>excited to this, is evident; ſo they
+are Rebels, open Rebels and Enemies to the Authority of Kings by their own
+Deſcription.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>7</label>
+               <hi>Page</hi> 7. You ſay
+<hi>the</hi> Photinians <hi>allow Kings in Pro<g ref="char:EOLhyphen"/>feſſion, but they are
+againſt the Exerciſe of their Power in the adminiſtration of
+Juſtice.</hi> I have heard of a Nor<g ref="char:EOLhyphen"/>thern People that crowned their King and
+ſo allowed Kings in Profeſſion, but would ſuffer him to doe no<g ref="char:EOLhyphen"/>thing;
+ſo they denied the Exerciſe of his Power in the Adminiſtration of
+Juſtice. Are not theſe <hi>Photi<g ref="char:EOLhyphen"/>nians</hi> in Mr. <hi>Robert Douglas</hi>
+judgement? A few lines following he makes a profeſſion, <hi>That they are
+far from cutting off a lap of that juſt power and greatneſſe which God
+hath allowed to the King, and we have bound our ſelves by Covenant not to
+diminiſh.</hi> You mean, I ſuppoſe, not to diminiſh, <hi>id eſt,</hi>
+more then the Covenant doth:</p>
+            <p>Now in the next place, when he comes to the prin<g ref="char:EOLhyphen"/>cipal Verb the
+Covenant, that <hi>Covenant</hi> which was between God and the King, he refers
+you to the ſum of it, 2 <hi>Kings</hi> 23: 3. which conteins nothing we can
+except againſt; But what is this to their Cove<g ref="char:EOLhyphen"/>nant he after mentions and the
+particulars of it; In <hi>Joſiahs</hi> you meet with none of this muſter of
+Popery, Prelacy, Superſtition, Hereſie, Schiſme and Prophane<g ref="char:EOLhyphen"/>neſſe,
+nothing of Incendiaries, Malignants or the like, or engaging to alter other
+Nations and reform them; Theſe Men if they meet with but the word Cove<g ref="char:EOLhyphen"/>nant,
+they think it is a Blank which they may fill up with what they pleaſe, and
+then Chriſten it with the title of a Scripture Covenant. I ſhall refer him
+for this to <hi>Oxford</hi> Reaſons, which when my <hi>Scotch.</hi>
+Miniſter can ſolidly anſwer, we will take it into further
+conſideration, and till then lay it by.</p>
+            <pb n="17" facs="tcp:32669:9"/>
+            <p>Now then let him boaſt what he will, how much <hi>Scotland</hi>
+hath preference before other Nations, for their making a Covenant, if they get
+but as much more by it as they have already gotten, a blew Bonnet will buy
+all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>8</label> The 8. <hi>Page</hi> is ſuch a
+bundle of Calumnies that I am willing quickly to ſkip over this Dunghill; for
+the ſcent is very offenſive to any good Subject or modeſt temper: Nothing
+here but of <hi>Diſſembling Kings, the ſins of his Fathers Houſe; the
+Houſe of our King hath been much defiled with Idolatry: Complaints of a
+prophane Court in</hi> England: If this be to preach, there is none of our
+Tub-men, that will not doe it as well; for they can make any thing idolatrous
+or prophane, as well as he; I, even Learning too; and I doubt, if they had
+their minds, it would be Idolatry for ſome men to eat their meat.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>9</label> But in the cloſe of this
+<hi>Page</hi> and in the 9. he comes to the Covenant between the King and the
+People; in which he ſaith, <hi>Is a Contract between Him and them, containing
+conditions mutually to be obſerved.</hi> This he ſaith, but doth not prove,
+nor ever can, that there was any ſuch Contract between <hi>Joaſh</hi> and
+the people: he may ſtate it how he pleaſes; but if he put more into it,
+then that he ſhould govern them, and they be o<g ref="char:EOLhyphen"/>bedient, I conceive it is his
+own Fancy; for nothing is expreſſed, and we never find their Kings under
+any Conditions, but what they owed to God. As for thoſe other two which you
+mention; <hi>In regard of Lawes, and in regard of Government,</hi> you only
+ſay it; For firſt thoſe Lawes that are received, may be alte<g ref="char:EOLhyphen"/>red, and it
+may be good that they be altered when they prove inconvenient; and who can
+alter them but the King? Others may <hi>Legem rogare,</hi> but he only 
+<pb n="18" facs="tcp:32669:10"/>doth <hi>Legem ferre;</hi> and if he do make a Law contrary
+to what was in uſe at ſuch a time of his Oath, will you ſay he is a
+Breaker of his Oath by enacting the contrary that is more advantageous? how is
+he then limited by them, any longer then he ſhall find them beneficial to the
+People? And in a word, for all you blurt out againſt <hi>Arbitrary Power and
+Government,</hi> it is impoſſible to place the Supreme <hi>Power,</hi>
+either in one, or few, or many, but it muſt be Arbitrary; therefore all
+Arbitrary Government is not Tyrannicall, though you jumble them together, and
+make them all one in the Latter end of the 9. <hi>Page.</hi> Is it not
+Arbitrary with that Supreme <hi>Power,</hi> whether this ſhall continue a Law
+or not? but if you mean by Arbitrary, an Ar<g ref="char:EOLhyphen"/>bitrary adminiſtration of
+juſtice in the Execution of the Law already made, therein I ſuppoſe no
+King will aſſume to himſelf an Arbitrary <hi>Power;</hi> for not to act
+by that Rule which was at firſt the act of his own will, is to contradict
+himſelf; yet withall you can<g ref="char:EOLhyphen"/>not deny, but that the King may diſpence with
+the Execution of the Law by Pardon, and ſo moderate the rigour of it.</p>
+            <p>What you ſay of <hi>Limitation in regard of Govern<g ref="char:EOLhyphen"/>ment,</hi> is
+little to the purpoſe; for though the KING govern not alone, yet all elſe
+beſides are (to uſe the Apoſtles phraſe) ſent by him, and their power
+they have from him, as the Fountain of all power.</p>
+            <p>What the Author of <hi>Defenſio Regia</hi> hath written, I
+ſuppoſe he is able to make good againſt a greater Gy<g ref="char:EOLhyphen"/>ant then your
+ſelf; and therefore I ſhall not meddle with what you aſperſe him, till
+you have anſwered his Arguments which will be long enough.</p>
+            <p>In the cloſe of this <hi>Page,</hi> you tell us, <hi>That Kings
+are deceived who think the People are ordeined for the King, 
+<pb n="19" facs="tcp:32669:10"/>and not the King for the People.</hi> And I affirm that
+thoſe Miniſters are deceived that think they are not ordeined mutually for
+each other; the King to go<g ref="char:EOLhyphen"/>vern the people, and the people to be governed by
+their King.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>10</label> Now in the 10. <hi>Page,</hi> after
+you have been as bold as blind <hi>Bayard</hi> with the King, and with Kings
+you wipe your lips, and come out with a pretence of Mo<g ref="char:EOLhyphen"/>deſty, that <hi>You
+deſire not to ſpeak much of this ſubject;</hi> and afterward you break
+out into more then yet you have ſaid: You tell us alſo that <hi>Men have
+been very tender in medling with the Power of Kings;</hi> I am ſure, you, nor
+the reſt of your Brethren, are not of thoſe Men that have been ſo tender;
+for you undertake in the ſame <hi>Paragraph</hi> to adviſe, how Subjects
+(you name them in this general term) <hi>ſhould keep within the bounds of
+this Covenant in regulating that Power that is the Kingly Power.</hi> Where is
+the ſacredneſſe and inviolableneſs of their Authority which you talked
+of in the 6. <hi>Page?</hi> for now here you give liberty to the Eſtates to
+<hi>control,</hi> to <hi>oppoſe Him</hi> and to <hi>reſiſt Him by
+Arms;</hi> and this you make a Duty: for you ſay not only that they may doe
+it, but that they ought to doe it, when the King overthrows Religion, Laws and
+Liberty; But yet you know this was done conſtantly by the Kings of
+<hi>Iſraell,</hi> and ſometimes by the Kings of <hi>Judah:</hi> yet to
+ſpeak your own language a little after, I think you cannot ſhew that the
+<hi>Prophet</hi> ever taught ſuch Do<g ref="char:EOLhyphen"/>ctrine, or the Apoſtles, though under
+Heathen Empe<g ref="char:EOLhyphen"/>rours, that the Eſtates might oppoſe with Arms, nor any
+Churches, but thoſe that <hi>Scotize,</hi> and the Jeſuits; how they agree
+I will give you a Taſte; for others have given you a full Meal.</p>
+            <p>
+               <hi>Bellarmine</hi> in his 5: <hi>lib: De Romano Pontifice,</hi>
+c. 7: <pb n="20" facs="tcp:32669:11"/>ſaith, that the Chriſtians obeyed <hi>Nero,
+Diocleſian, Ju<g ref="char:EOLhyphen"/>lian</hi> the Apoſtate, and <hi>Valens</hi> the Arrian,
+<hi>Quia de<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant vires temporales
+Chriſtianis;</hi> So the Author of the Book <hi>De juſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abdicatione Regis Henrici</hi> 3.
+ſaith upon the ſame occaſion, <hi>Non eſt eadem ratio inſtituendae
+Eccleſiae at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inſtitutae, adde quod id tum non licuit dum impiorum mu
+titudo ſuperior eſſet.</hi> And to obey with him in a<g ref="char:EOLhyphen"/>nother place is
+<hi>Laudabile tantùm cum reſiſtere nequeas.</hi> And he that ſhall
+read <hi>Buchanan, De jure Regni apud Scotos,</hi> Pag. 50.55. ſhall find the
+ſame Doctrine. For though they look ſeveral wayes, yet like
+<hi>Sampſon</hi>'s Foxes they are tyed together by the tayls; he hath there
+the ſame ſenſe. <hi>Paul</hi> ſaith, he wrote of obe<g ref="char:EOLhyphen"/>dience in the
+infancy of the Church when there were but few Chriſtians and not many of them
+rich, or of ability, or ripe for ſuch a purpoſe. And a little after, as if
+a Man ſhould write to ſuch Chriſtians, as are un<g ref="char:EOLhyphen"/>der the Turk, poor and
+feeble, would he not write as <hi>Paul</hi> did? ſee the Apoſtle (as he
+takes upon him to inſtruct him) reſpected, ſayes he, the Men he wrote
+too, and his words are not to be extended to a whole Commonwealth or City.
+Prodigious Divinity! which the Church was never acquainted with till the
+Jeſuits and theſe Men broached it. <hi>Tertullian</hi> who lived in the
+latter end of the ſecond Century, teacheth us another Leſſon, in his
+<hi>Apologeticus, Num plures Mauri aut Marco munici, ipſi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Parthi, cui
+Bello non idonei qui tam libentèr trucidamur:</hi> were it weakneſſe
+only that kept the Chriſtians in ſubjection, which is moſt un<g ref="char:EOLhyphen"/>true,
+Chriſtians would be the worſt Subjects and moſt dangerous to be
+ſuffered in any Nation, as thoſe who would obey no longer then till they
+were ſtrong enough to reſiſt; but when they ceaſed to be weak, would
+ceaſe to be ſubject alſo: no pretence of Reli<g ref="char:EOLhyphen"/>gion <pb n="21" facs="tcp:32669:11"/>ſhould make us irreligious. If you give this Power to the Eſtates,
+you advance their power above the Kings; and then how is he ſacred and
+inviolable in his Authority, when another Authority under him may reſiſt
+him by Arms? and thoſe who though they are higher then others, yet are
+Subjects having all their Honours and Places, which ſets them above the
+Common people, from Him: But all this will not <hi>juſtifie the proceeding of
+the Kingdome,</hi> as you ſay it will againſt <hi>the late King;</hi> for
+you have only ſaid ſo much, having given nothing of reaſon to ſatisfie
+the Conſci<g ref="char:EOLhyphen"/>ence in a matter of ſo great import. But I muſt pray you not
+to call them the <hi>Proceedings of the Kingdome;</hi> For it was but the
+proceedings of a Faction in that Kingdom, a Multitude being driven in to them
+meer<g ref="char:EOLhyphen"/>ly out of Fear to ſecure themſelves from their Vio<g ref="char:EOLhyphen"/>lences, and how
+much you and your Brethren here have ſinned in violating Mens Conſciences
+by your impoſing upon them the Covenant; you have reaſon to know in part
+already, and will one day know more when you ſhall come before an impartiall
+Judge: That <hi>the late King</hi> (as you call him; but the bleſſed MARTYR
+you might,) <hi>did in a hoſtile way ſet himſelf to over throw Religion,
+Parliaments, Laws and Li<g ref="char:EOLhyphen"/>berties,</hi> is moſt falſe; For all the world
+knows he died for their Preſervation.</p>
+            <p>You go on to ſhew us next, that <hi>For every Breach of
+Covenant, Subjects ſhould not lay aſide a King,</hi> That is, to ſpeak
+plain, depoſe him, <hi>Except the Breaches be ſuch as overthrow the
+Fundamentals of the Covenant with the People:</hi> Why, what then? you doe not
+ſay in terms they may depoſe him in that caſe: but you imply it; For you
+ſay, <hi>Except the Breaches be ſuch:</hi> So if they be ſuch, or you
+judge them ſuch, it ſeems they may; <pb n="22" facs="tcp:32669:12"/>Yet afterwards you
+think you make amends by charging private perſons, <hi>To be very
+circumſpect about that which they doe in relation to the Authority of
+Kings.</hi> It ſeems they may doe ſomething, only they muſt be
+circumſpect in it. Yet <hi>Page</hi> 24. ſo inconſtant is he to
+himſelf, that he honeſtly ſaith, the Conſpiracy of Subjects againſt
+their Kings, is a wicked Courſe: And he thinks he acquits them very highly,
+that thoſe <hi>Godly Paſtors</hi> (as he calls them) <hi>in King</hi> James
+<hi>his time, did not intermedle in ſhewing their judgement that the King
+ſhould be ſuſpended from the exerciſe of his Royall Power, though they
+ſuffered perſecution for their Honeſty and Freedome:</hi> That is, for
+their bold and unreaſo<g ref="char:EOLhyphen"/>nable Diſcourſes before the King. But what the
+judg<g ref="char:EOLhyphen"/>ment was both of them and of their Maſter before them, <hi>J. Knox</hi>
+is to be ſeen in his Writings and theirs; I will not ſpend time in
+tranſcribing many paſſages out of <hi>Knox,</hi> his Treatiſes are to
+be had, and in them it is to be ſeen that he is for more then Depoſing; but
+for that plain; in his Hiſtory, <hi>Page</hi> 37<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Princes</hi> (ſaith he) <hi>for juſt Cauſes
+may be Depoſed:</hi> but what thoſe juſt Cauſes are, he keeps cloſe
+in his own breaſt; for an angry Aſſembly, they conceive, may determine
+that: <hi>Knox</hi> to <hi>England</hi> and <hi>Scotland,</hi> Fol. 78. <hi>If
+Princes be Tyrants againſt God and his Truth, their Subjects are free from
+their Oaths of Obedience;</hi> which if, then they as well as the Eſtates may
+ſuſpend, and what not.</p>
+            <p>
+               <hi>Buchanan de jure Regni,</hi> pag. 61. <hi>Populus Rege eſt
+prae<g ref="char:EOLhyphen"/>ſtantior, &amp; melior Populo, jus eſt ut imperium cui velit
+deferat.</hi> And <hi>Viretus</hi> complains much in his third
+<hi>Dialogue</hi> of white Divels, <hi>Fol.</hi> 252. <hi>That ſo much Power
+is put into the civill Magiſtrates hands;</hi> whereupon he calls them
+<hi>Temporall Popes.</hi> Why doth he complain of theſe Men amongſt us for
+the practice of <hi>Regicide,</hi> 
+               <pb n="23" facs="tcp:32669:12"/>when they and their
+Maſters have given them the Principle? Theſe are wayes to ſet all the
+world in combuſtion; for when ever any diſcontented <hi>Party</hi> ſhall
+ſay the King is a Tyrant to God and his Truth, then they may fall upon him
+and Depoſe him; and we know there was never much time between the
+Depoſition of Kings and their being Murdered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>11</label> In the top of the 11.
+<hi>Page,</hi> you are to be minded that you recite a Text againſt
+<hi>Reſiſting the lawfull Power,</hi> and in the 10. you are expreſly,
+<hi>For reſiſting by Arms.</hi>
+            </p>
+            <p>You complain, that <hi>the Sectaries cover their Deſtroy<g ref="char:EOLhyphen"/>ing of
+Kings with Chriſt's Intereſt.</hi> And we complain, ſome Sectaries cover
+their keeping under and reſiſting of Kings with Chriſts Intereſt.</p>
+            <p>The Author of the Eccleſiaſtical Diſcipline,<note place="margin">J. C.</note> and generally all of them, divide the Church into two
+Moyeties, <hi>viz</hi> thoſe that are to govern as Paſtors, Doctors and
+Elders: and thoſe which are to obey, as Magiſtrates of all ſorts and the
+people: And <hi>Beza</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Eraſtus,</hi> ſpeaks plainly, and
+tells us, that Princes have no more to doe with matters of the <hi>Church,</hi>
+then Miniſters have with the Affairs of the <hi>Commonwealth.</hi> Briefly,
+<hi>Submittere Sceptra Chriſto,</hi> is with the <hi>Romane Catholick,
+Ponitifici;</hi> with theſe Men, as the Learned <hi>Biſhop</hi> in his
+<hi>Tortura Torti, Page</hi> 34: obſerves, <hi>Presbyterio;</hi> which
+<hi>Beza</hi> is bold to call, <hi>Tribunal Chriſti;</hi> and this Author,
+<hi>Page</hi> 24. <hi>The Kingdome of Chriſt more then once.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>12:</label> Prayers you ſay, <hi>Are to be
+made for Kings that are not in Covenant.</hi> I, and active Obedience to
+<hi>All</hi> in all lawful things is to be performed; where that can<g ref="char:EOLhyphen"/>not be,
+paſſive muſt be yielded:</p>
+            <p>You ſay you do not count theſe Enemies who pro<g ref="char:EOLhyphen"/>feſſe 
+<pb n="24" facs="tcp:32669:13"/>
+               <hi>Repentance and declare themſelves for the Cauſe and
+Covenant.</hi> Are the Cauſe and Covenant two diſtinct things? you ſhould
+have ſaid for the Cauſe of the Co<g ref="char:EOLhyphen"/>venant, though indeed there be no cauſe
+for the Co<g ref="char:EOLhyphen"/>venant. It is ſtrange you ſhould commend to Chri<g ref="char:EOLhyphen"/>ſtians
+Repentance for doing their Duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>14</label> For the Malignants, he tells them,
+<hi>Little Good is to be expected from them;</hi> well, and how much good have
+the Covenanters done? Every one can tell you they have begger'd three Kingdoms,
+and are not yet quiet, but would quite deſtroy them, though they find their
+Diſcipline and Government of this Nation as incur<g ref="char:EOLhyphen"/>rent as
+<hi>Parallels.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>15</label>
+               <hi>Prayers</hi> (ſaith he)
+<hi>are not much in requeſt at Court.</hi> He cannot forbear a fling at King
+or Court; for ought I know there are the beſt Prayers, where are the beſt
+Subjects? For never tell us of Obedience to God whom you have not ſeen, if
+you be deficient in the Expreſſion of it to Men whom you have ſeen.</p>
+            <p>He ſayes, <hi>They deceive Kings, that make them believe
+Presbyteriall Government cannot ſuit with Monarchy.</hi> King <hi>James</hi>
+who knew theſe Men <hi>Intus &amp; in cute,</hi> was wont to ſay, No BISHOP
+no KING; and we have ſeen the ſad Truth of the <hi>Apothegme</hi> in our
+days, ſo ſoon as they had gotten out One, they ſought to deſtroy the
+Other.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>16</label> You confound things ſo
+ſtrangely, that it is hard where to take you; but yet it is plain, that you
+would have Kings to have Nothing to doe in the Go<g ref="char:EOLhyphen"/>vernment of the Kirk, in
+this, true Romaniſts, yet for a ſhift you can decline them to. For your
+Bre<g ref="char:EOLhyphen"/>thren at the Conference at <hi>Hampton Court,</hi> complai<g ref="char:EOLhyphen"/>ned of the
+Biſhops, that they were not Friends to the Kings Supremacy; yet I believe
+none Greater, none <pb n="25" facs="tcp:32669:13"/>have maintained it more ſtoutly.
+Indeed we do not allow to Kings <hi>Sacerdotalia Officia,</hi> but the ordering
+the eſtabliſhing of all things that concern Religion muſt proceed from
+Him. He is <hi>mixta Perſona cum Sacerdote;</hi> and ſo we ſee that
+<hi>Moſes</hi> gives the Cere<g ref="char:EOLhyphen"/>monies, not <hi>Aaron; David</hi> orders the
+courſes of the Prieſts, Levites, and Singers, by thoſe <hi>Councils</hi>
+were called Edicts made about Religion and the Affairs of the
+<hi>Church.</hi>
+            </p>
+            <p>You tell the King, he is obliged to maintain Preſby<g ref="char:EOLhyphen"/>teriall
+Government; but however he ſhould main<g ref="char:EOLhyphen"/>tain that, I doubt he would ſadly
+find that that will never maintain him.</p>
+            <p>He cannot leave his Boldneſſe in undertaking to tell the
+particular cauſes of God's Judgements, which he is often at. <hi>Some
+endeavour to make you reproach that for which God hath puniſhed your
+Predeceſſors. Ju<g ref="char:EOLhyphen"/>dicia Dei abyſſus magna,</hi> you are very confident
+in ſuch Speeches, and ſhew little of a Divine.</p>
+            <p>But no marvail; for he pretends to propheſie; For he is ſo
+enamoured with this Government, that he ſaith, <hi>Who ever meddles to
+overturn it, it ſhall be as heavy to him as the burthenſome ſtone to the
+Enemies of the Kirk.</hi> Is it not ſo to them who ſubmit to it a heavy
+dull burthen? and we have not yet ſeen his Propheſie fulfilled; for we have
+found that this <hi>Covenant</hi> hath ruin'd as many of its Servants as
+Enemies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>17</label> You ſhew there plainly how
+jealous you are of Kings, and how loth they ſhould govern for fear their
+Government ſhould prove prejudiciall to the <hi>Cauſe,</hi> that is,
+Preſbytery. For though you ſay before, <hi>How well Kingly Government and
+that agree;</hi> you ſcarce dare venter them together; <hi>It was with much
+Debate that you yielded to it notwithſtanding you ſent for him.</hi> You 
+<pb n="26" facs="tcp:32669:14"/>are free in your advice to the King in your ſtory of
+<hi>Modus,</hi> but never practiſe it your ſelves; for ſuch Hot-ſpurs
+the world affords not; who know no mo<g ref="char:EOLhyphen"/>deration, and think they have no zeal
+unleſs it put the Nation into Flames.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>18</label> All the charge you lay upon King
+<hi>James</hi> amounts to nothing; for you never left him till you had got<g ref="char:EOLhyphen"/>ten
+him to Covenant when he was young; and what he ſaid then of <hi>England</hi>
+or <hi>Geneva,</hi> is as of little con<g ref="char:EOLhyphen"/>ſequence as the reſt: But what if
+he never ſaid it, but you for him? or what if the Church of <hi>England</hi>
+do retain ſome Ceremonies, muſt they needs be Po<g ref="char:EOLhyphen"/>piſh <hi>eo nomine</hi>
+becauſe Ceremonies? Away with theſe trivial complaints, the Church of
+<hi>England</hi> nei<g ref="char:EOLhyphen"/>ther retains ſo many, as may hinder her Sons from
+attending to the ſubſtantiall part of Religion, nor any ſo unproper, as
+that they cannot procure the End for which they were commanded.</p>
+            <p>As for <hi>Geneva,</hi> if they have any Holy dayes, they may
+perhaps anſwer you in the Apoſtles phraſe, <hi>Judge no man in reſpect
+of a Holy day.</hi> But theſe hot Northern Heads, judge, and condemn all the
+world but them<g ref="char:EOLhyphen"/>ſelves. And all the world beſides, thinks them ſcarce
+worth ſeeing or condemning. What King <hi>James</hi> did when he came to
+riper years and more experience, doth give a Teſtimony that he was under
+Force in his younger time; <hi>And the Foundation he laid and upon which his
+Son built,</hi> was not <hi>To miſchief Religion, but to bring the
+Church</hi> to its ancient ſplendor, and to keep underneath malipert and
+diſorderly Sectaries; as <hi>Mas Robert;</hi> who when he had done his
+Sermon, and the Action of <hi>Coronation</hi> is over, and that he hath given
+the King his <hi>Benediction,</hi> being conſcious to themſelves by what
+means they had extorted this <pb n="27" facs="tcp:32669:14"/>from him, he falls to his
+threatnings, <hi>Page</hi> 23. <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>23</label> And to ſcare
+both King and Nobles from declining the Covenant; As if nothing elſe were
+<hi>able to hold the Crown</hi> but that: we have heard of righteouſneſs
+that it will ſtabliſh a Throne, but never that a forced Co<g ref="char:EOLhyphen"/>venant would
+work ſuch ſtrange Feats. But he tells us then afterward, that <hi>If they
+keep the Covenant it may be expected that God will keep you out of their
+hands,</hi> viz: <hi>Cromwell</hi> and his Party. We know not that any thing
+was broken of it; for all was in their hands till <hi>Worceſter</hi> Fight,
+yet they fell into their Hands, and the Covenant did not ſave them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pag. </seg>24</label> You ſay <hi>freely</hi> indeed
+that the chief <hi>Cauſe of the Judgements upon the Kings Houſe
+hath been the Grandfa<g ref="char:EOLhyphen"/>thers breach of Covenant with God, and the Fathers
+fol<g ref="char:EOLhyphen"/>lowing ſteps in oppoſing the work of God and his Kirk within theſe
+Kingdomes.</hi> Do you know it was Judge<g ref="char:EOLhyphen"/>ments to him who was ſo unnaturally
+murdered? to the Nation I am ſure it was a Judgement, but to him a Mercy to
+be taken away in ſuch a <hi>Cauſe,</hi> and by ſuch Hands as no bad Man
+could ſuffer from, and from ſuch a people, the Tide of whoſe affections
+if it had not turned, they had neither been worth living a<g ref="char:EOLhyphen"/>mongſt, nor
+ruling. And with the like rare confidence you charge him in Chriſt's Name, to
+<hi>Keep this Cove<g ref="char:EOLhyphen"/>nant in all points, and if he break it and come againſt
+this Cauſe, I aſſure you the controverſie is not ended between God and
+your Family, but will be carried on to the further weakning if not the
+overthrow of it.</hi> How dare you charge a King in Chriſt's Name to keep
+that which was made in your own name, and for your own inte<g ref="char:EOLhyphen"/>reſt? upon what
+ground can you aſſure him that the <hi>Controverſie</hi> is not ended
+with his Family, but that it ſhall continue ſtill to the weakning or
+overthrow <pb n="28" facs="tcp:32669:15"/>of it? Yes now I have found the Reaſon; For if
+he doe not, you and your <hi>Party,</hi> I do believe, will do your utmoſt
+for effecting what you threatned. You doe as the Rebells did here in
+<hi>England</hi> before the War, predict great Troubles, which themſelves
+were reſolved to raiſe. For though it becomes us to conceive that all
+Afflictions are juſt, and ſo ſup<g ref="char:EOLhyphen"/>poſe ſome Default in us, yet for any
+Man to ſay ei<g ref="char:EOLhyphen"/>ther of himſelf or others, that ſuch a Laſh is for ſuch
+a Fault, is more then we have Warrant for, and a preſumptious intruding into
+the ſecrets of God's juſtice, which ſuch a Boldneſſe may bring at
+laſt upon us. You know who ſaid, That neither this Man hath ſinned or his
+Parents, that he was born blind; yet perhaps had you been there, you would have
+given a REASON why he had been born blind.</p>
+            <p>You promiſe much, that if he <hi>Befriend the King<g ref="char:EOLhyphen"/>dome of
+Chriſt,</hi> that is, the <hi>Covenant; It may be God from this day ſhall
+begin to doe you good.</hi> Now you are not ſo confident as before; but if
+you break the <hi>Covenant,</hi> then he is not upon his <hi>may bee's</hi> but
+is <hi>very poſitons.</hi>
+            </p>
+            <p>
+               <hi>But ye that Support, and he that is ſupported will fall
+together.</hi> You give us that which is very rare, in your Writings (moſt of
+them being an <hi>Ipſe dixit</hi>) a reaſon why you urge this, becauſe it
+is <hi>a rare thing</hi> (you ſay) <hi>to ſee a King and great Men for
+Chriſt.</hi> This being for Chriſt, is a canting Phraſe, which every Sect
+takes up at pleaſure. For whoever is for the <hi>Intereſt</hi> of that
+<hi>ſide</hi> is for Chriſt;<note place="margin">Sect.</note> and then
+<hi>Ipſum eſſe illic eſt pro mereri,</hi> as <hi>Tertullian,</hi> with
+you not to doe the Duties of a Chriſtian, but to be for the
+<hi>Covenant;</hi> that is, to be for <hi>Chriſt;</hi> and all you are for
+<hi>Chriſt,</hi> and no <pb n="29" facs="tcp:32669:15"/>
+               <hi>Body</hi> elſe: Pure
+Donatiſts, <hi>ubicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſi ibi Eccleſia,</hi> The Church is where
+ever they are, and no where elſe to be found.</p>
+            <p>At laſt for a cloſe of all, you tell the King, <hi>That he is
+the only Covenanted King with God and his People in the world;</hi> which is
+all one, as if you had ſaid, that he was the only unhappy Prince in the world
+to fall into ſuch hands that ſhould crucifie him with a Cove<g ref="char:EOLhyphen"/>nant: and you
+promiſe very peremptorily, <hi>That if he obſerve what is contained
+therein, it ſhall prove a happy time for Him and his Houſe.</hi> Wherein
+hath it ſo proved from you? — where is your Promiſe <hi>Mas
+Robert?</hi> what ever happineſſe he hath, he owes it not to you or the
+Covenant (as all the world knows) but God. For as for his Reſtauration,
+<hi>It was the Lord's doing, and it is marveilous in our eyes;</hi> For it is
+he that turned the Hearts of the People, even of the greateſt part of his
+Enemies, <hi>Solo Deo Laus &amp; Gloria.</hi>
+            </p>
+            <p>How the King was likely to be taken much with that, which took
+ſo much from him, I appeal to the world? and how much the Covenant took from
+him, appears in that it was made without him, and obtru<g ref="char:EOLhyphen"/>ded upon him: To take
+off the Blot which this <hi>Paeper</hi> intends to caſt upon his Sacred
+Majeſty, let the Chriſtian Reader that is <hi>Liber à partibus,</hi>
+conſider a little his Majeſties Caſe, by that Rule, <hi>Quod tibi fieri
+non vis;</hi> and that others judge not. It was in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> where he
+was at more Liberty, and had not yet obliged himſelf to the contrary in that
+Nation, when he was young and in the condition of an Exile, having been
+deprived of his Father of ever bleſſed Memory, by bloody Traytors, in a
+moſt barbarous and unheard of manner, which no Hiſtory can paral<g ref="char:EOLhyphen"/>lell,
+deſpoiled of three Kingdoms, of all comfort and <pb n="30" facs="tcp:32669:16"/>ſupport, his Friends here were all worried by the <hi>Rebells,</hi>
+thoſe abroad ſcarce able to ſuſtain themſelves in being: And thoſe
+forreign Friends he had, enter<g ref="char:EOLhyphen"/>taining a conceit that he was wanting to
+himſelf in that he did not more readily embrace the <hi>Scotch</hi> Offers,
+which he muſt doe, or undergoe the harſh Cenſure of neglecting his
+Affairs, and ſo loſe that lit<g ref="char:EOLhyphen"/>tle remainder of ſolace he had left. This
+forces him to hearken to them to make an Agreement with them; but when they
+once had him, then nothing but ſuch harſh Conditions muſt be put upon him
+as will make that Party in the Nation odious to all po<g ref="char:EOLhyphen"/>ſterity; what ſhould
+he doe? there was no way to get out of their hands, he is kept up rather like a
+pri<g ref="char:EOLhyphen"/>ſoner then a King. If he yield to them there was hopes that he ſhould,
+if not govern them; (for let him that can doe that) yet have his perſon free
+from dan<g ref="char:EOLhyphen"/>ger. If he oppoſe, how could he be confident, that they which lay
+ſo great a weight upon the Covenant, would not in their Rage entertain ſome
+Bargain with the Enemy? and ſo they might enjoy their beloved
+<hi>Helena,</hi> and ſome of our <hi>Engliſh</hi> Money beſides, (both
+which the Engliſh <hi>Mahomet</hi> was likely enough to yield to,) deliver
+him up to be ſacrificed by thoſe Tyrants, who never ſpared Mony to ſhed
+Bloud, nor Bloud to get Mony.</p>
+            <p>And this they could have done with fair pretences and ſome
+formal Articles (they know the way) that he ſhould not have his perſon
+violated, which that grand Hypocrite would have broken at his pleaſure. And
+now ſee if there were ever any ſtrait like His. Put thy ſelf in the
+ſame Caſe, as it is but weakly ex<g ref="char:EOLhyphen"/>preſſed here, and then tell me if
+thou ſhould not think thy ſelf under ſo great a Tentation as might render
+<pb n="31" facs="tcp:32669:16"/>thy yielding; if not, no frailty, yet the more
+excuſa<g ref="char:EOLhyphen"/>ble, and fitter to be relieved by prayers, then tram<g ref="char:EOLhyphen"/>pled on by a
+ſuperbous Cenſure: How many incon<g ref="char:EOLhyphen"/>veniences is the poor Priſoner forced
+to yield to? how unreaſonable Agreements to ſign, that his
+<hi>Con<g ref="char:EOLhyphen"/>dition</hi> may not be worſe? And what perſon that pre<g ref="char:EOLhyphen"/>tends to man
+doth not account all theſe Acts, during his Reſtraint, and whileſt the
+Force is upon him, a meer Nullity? How often have we known the honeſt
+Traveller, when he falls into the hands of cruel Thieves, to engage to ſay or
+doe that for his preſerva<g ref="char:EOLhyphen"/>tion, which otherwiſe he would never be guilty
+of? I wonder much how any Man that hath the Soul of a <hi>Chriſtian,</hi> or
+the Duty and Affection of a Subject, can forbear melting into tears, when his
+ſad <hi>Condition</hi> repreſents it ſelf to his thoughts, and in his
+ours. For how can we be ſaid all this while to have lived with<g ref="char:EOLhyphen"/>out the Breath
+of our Noſtrills? That great God who ſits above the water-flouds and
+remains a King for ever; as he hath Reſtored, ſo bleſſe Him with the
+choiceſt of his Bleſſings; preſerve Him to us, and us dutiful to Him,
+And there will be nothing wanting to compleat our Happineſſe, but our
+repeated <hi>Praiſes</hi> and <hi>Thanksgiving</hi> for ſo ſignall a
+<hi>Bleſſing.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
